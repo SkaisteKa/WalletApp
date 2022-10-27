@@ -39,6 +39,7 @@
 	<string></string>
 	<key>UIAppFonts</key>
 	<array>
+		<string>FontAwesome.ttf</string>
 		<string>Lato-Bold.ttf</string>
 		<string>Lato-Regular.ttf</string>
 	</array>
